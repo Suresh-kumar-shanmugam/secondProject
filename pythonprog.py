@@ -5,3 +5,5 @@ c = a + b
 print(c)
 
 print("Ok guys bye..")
+
+print("push and pull success")
